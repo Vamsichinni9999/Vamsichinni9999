@@ -4,71 +4,51 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Chinni Amrutha Vamsi</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- FontAwesome for icons -->
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+    <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
 </head>
-<body style="margin: 0; font-family: 'Poppins', sans-serif; box-sizing: border-box;">
-
+<body>
     <!-- Header -->
-    <header style="text-align: center; background-color: #f4f4f4; padding: 2rem;">
-        <h1 style="margin: 0; font-size: 2.5rem; color: #333;">Hi 👋, I'm Chinni Amrutha Vamsi</h1>
-        <h3 style="color: #555; font-weight: 400; margin: 1rem 0; font-size: 1.2rem;">
-            My passion is to build innovative & impactful web applications using cutting-edge technologies and best practices. I'm enthusiastic about learning new things better than yesterday.
-        </h3>
+    <header class="profile-header">
+        <h1>Hi 👋, I'm Chinni Amrutha Vamsi</h1>
+        <h3>My passion is to build innovative & impactful web applications using cutting-edge technologies and best practices. I'm enthusiastic about learning new things better than yesterday.</h3>
     </header>
 
     <!-- Profile Views -->
-    <p style="text-align: center; margin: 1rem 0;">
-        <img src="https://komarev.com/ghpvc/?username=vamsichinni9999&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+    <p class="profile-views">
+        <img src="https://komarev.com/ghpvc/?username=vamsichinni9999&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
     </p>
 
-    <!-- Project Links -->
-    <section style="padding: 2rem; max-width: 1200px; margin: auto;">
-        <h2 style="text-align: center; color: #333;">🚀 What I'm Working On</h2>
-        <ul style="list-style-type: none; padding: 0; text-align: center;">
-            <li style="margin: 1rem; font-size: 1.1rem;">
-                🔭 I’m currently working on <a href="http://chinniii2730.s3-website-ap-southeast-2.amazonaws.com/" style="color: #007BFF; text-decoration: none;">Stock Analysis using PowerBI and AWS</a>
-            </li>
-            <li style="margin: 1rem; font-size: 1.1rem;">
-                👯 Collaborating on <a href="https://github.com/Vamsichinni9999/railwaycloudbackend" style="color: #007BFF; text-decoration: none;">Deploying a web application on Red Hat OpenShift</a>
-            </li>
-            <li style="margin: 1rem; font-size: 1.1rem;">
-                👨‍💻 Check out my portfolio: <a href="https://my-portfolio-chinni.vercel.app/" style="color: #007BFF; text-decoration: none;">My Portfolio</a>
-            </li>
-        </ul>
+    <!-- Projects Section -->
+    <section class="projects">
+        <h2>🔭 I’m currently working on</h2>
+        <a href="http://chinniii2730.s3-website-ap-southeast-2.amazonaws.com/" target="_blank">Stock Analysis using PowerBI and AWS</a>
+        <h2>🌱 I’m currently learning</h2>
+        <p>AWS, Red Hat OpenShift, S3, DynamoDB, MongoDB, MySQL, ReactJS, Spring Boot, AngularJS, Django, JavaScript, CSS, HTML, Node.js, Express.js</p>
+        <h2>👯 I’m looking to collaborate on</h2>
+        <a href="https://github.com/Vamsichinni9999/railwaycloudbackend" target="_blank">Deploying a web application on Red Hat OpenShift</a>
+        <h2>👨‍💻 All of my projects are available at</h2>
+        <a href="https://my-portfolio-chinni.vercel.app/" target="_blank">My Portfolio</a>
     </section>
 
-    <!-- Connect With Me -->
-    <section style="text-align: center; background-color: #f4f4f4; padding: 2rem;">
-        <h2 style="margin-bottom: 1rem; color: #333;">🌐 Connect with me</h2>
-        <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
-            <a href="https://x.com/chinniy41901427" target="_blank">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" style="height: 30px;">
-            </a>
-            <a href="https://www.linkedin.com/in/chinni-yadav-8215ab230/" target="_blank">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" style="height: 30px;">
-            </a>
-            <a href="https://stackoverflow.com/users/22407039/chinni-yadav" target="_blank">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" style="height: 30px;">
-            </a>
-            <a href="https://www.instagram.com/chinni_yadav____" target="_blank">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" style="height: 30px;">
-            </a>
-            <a href="https://bento.me/chinni9999" target="_blank">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" style="height: 30px;">
-            </a>
-            <a href="https://www.codechef.com/users/chinni9999" target="_blank">
-                <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" style="height: 30px;">
-            </a>
-            <a href="https://leetcode.com/u/chinni9999/" target="_blank">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" style="height: 30px;">
-            </a>
+    <!-- Social Links -->
+    <section class="social">
+        <h3>Connect with me:</h3>
+        <div class="icons">
+            <a href="https://x.com/chinniy41901427" target="_blank"><i class="fab fa-twitter"></i></a>
+            <a href="https://www.linkedin.com/in/chinni-yadav-8215ab230/" target="_blank"><i class="fab fa-linkedin"></i></a>
+            <a href="https://stackoverflow.com/users/22407039/chinni-yadav" target="_blank"><i class="fab fa-stack-overflow"></i></a>
+            <a href="https://www.instagram.com/chinni_yadav____" target="_blank"><i class="fab fa-instagram"></i></a>
+            <a href="https://bento.me/chinni9999" target="_blank"><i class="fab fa-behance"></i></a>
+            <a href="https://www.codechef.com/users/chinni9999" target="_blank"><i class="fas fa-code"></i></a>
+            <a href="https://www.hackerrank.com/profile/21341a1231" target="_blank"><i class="fab fa-hackerrank"></i></a>
+            <a href="https://codeforces.com/profile/vamsichinni2004" target="_blank"><i class="fas fa-laptop-code"></i></a>
+            <a href="https://leetcode.com/u/chinni9999/" target="_blank"><i class="fas fa-terminal"></i></a>
+            <a href="https://www.hackerearth.com/@vamsichinni2004" target="_blank"><i class="fab fa-hackerearth"></i></a>
         </div>
     </section>
-
-    <!-- Footer -->
-    <footer style="background-color: #333; color: #fff; text-align: center; padding: 1rem;">
-        <p style="margin: 0;">💌 Reach me at <a href="mailto:vamsichinni2004@gmail.com" style="color: #007BFF;">vamsichinni2004@gmail.com</a></p>
-    </footer>
-
 </body>
 </html>
