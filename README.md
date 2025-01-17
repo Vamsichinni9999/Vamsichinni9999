@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/chinniy41901427" target="blank"><img src="https://img.shields.io/twitter/follow/chinniy41901427?logo=twitter&style=for-the-badge" alt="chinniy41901427" /></a> </p>
 
-- 🔭 I’m currently working on [product Analysis using PowerBI and AWS](http://chinniii2730.s3-website-ap-southeast-2.amazonaws.com/)
+- 🔭 I’m currently working on [Product Analysis using PowerBI and AWS](http://chinniii2730.s3-website-ap-southeast-2.amazonaws.com/)
 
 - 🌱 I’m currently learning **Full Stack Web Development & AWS Cloud**
 
