@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vamsichinni9999&show_icons=true&locale=en" alt="vamsichinni9999" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vamsichinni9999&" alt="vamsichinni9999" /></p>
+<p><img align="center" src="  https://camo.githubusercontent.com/c1815f9a380ce07de090c4c79afb85814bf1cb37407a7d126c02eaa8085e5fd1/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d76616d73696368696e6e693939393926&" alt="vamsichinni9999" /></p>
