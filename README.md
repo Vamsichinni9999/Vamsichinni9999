@@ -1,5 +1,6 @@
 <h1 align="center">Chinni Yadav</h1>
-<h3 align="center"></h3>
+
+<h3 align="center">My passion is to build innovative & impactful web applications using cutting-edge technologies and best practices. I'm enthusiastic about learning new things better than yesterday.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vamsichinni9999&label=Profile%20views&color=0e75b6&style=flat" alt="vamsichinni9999" /> </p>
 
