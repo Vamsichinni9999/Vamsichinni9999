@@ -55,10 +55,9 @@
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vamsichinni9999&show_icons=true&locale=en&layout=compact" alt="vamsichinni9999" /></p>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vamsichinni9999&show_icons=true&locale=en&layout=compact" alt="vamsichinni9999" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <img src="https://github-readme-stats.vercel.app/api?username=vamsichinni9999&show_icons=true&locale=en" alt="vamsichinni9999" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vamsichinni9999" alt="vamsichinni9999" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vamsichinni9999&show_icons=true&locale=en" alt="vamsichinni9999" /></p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vamsichinni9999" alt="vamsichinni9999" />
-</p>
